@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+}
+
+.list {
+  text-align: left;
+  padding-left: 20%;
+  line-height: 1.5rem;
+}
+
+.describe {
+  padding: 1%;
+  line-height: 2rem;
+  margin-left: 25%;
+}
+
+#heading {
+  background-color: #1363DF;
+  color: white;
+  padding: 5%;
+}
+
+#myself {
+  background-color: #47B5FF;
+  color: white;
+  padding: 3%;
+}
+
+#hobbies {
+  background-color: #DFF6FF;
+  padding: 10%;
+}
